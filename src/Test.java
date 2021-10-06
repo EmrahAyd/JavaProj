@@ -1,14 +1,34 @@
+import java.util.Scanner;
+
+
+
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Selam dünyalı");
+
+        Scanner inp = new Scanner(System.in);
+
+        int mat,fiz,kimya,edebiyat,muzik;
+
+
+        System.out.println( "Mat notunuz: ");
+        mat = inp.nextInt() ;
+
+
+        System.out.println( "fiz notunuz: ");
+        fiz = inp.nextInt() ;
+
+        System.out.println( "edebiyat notunuz: ");
+        edebiyat = inp.nextInt() ;
+
+        System.out.println( "Müzik notunuz: ");
+        muzik = inp.nextInt() ;
+
+        System.out.println( "Kimya notunuz: ");
+        kimya = inp.nextInt() ;
+
+
+        String Ortalama = (fiz + kimya + mat + edebiyat + muzik) / 5 >= 60 ? "Geçtiniz" : "Kaldınız";
+
+        System.out.println(Ortalama);
     }
-int s ;
-int   a = 1112031584;
-while ( i = 1; i < (a); i++ );
-   {
-    if (a[i] % 2 == a[i-1] % 2) {
-        s += max(a[i], a[i-1])
-    }
-    }
-goto_url ('www.multisoft.se/')
 }
