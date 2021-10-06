@@ -1,0 +1,2 @@
+# ortalama
+Java 101
