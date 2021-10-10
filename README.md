@@ -1,2 +1,2 @@
-# ortalama
-Java 101
+## Ortalama alma
+Projeler master branchin içerisindedir.
