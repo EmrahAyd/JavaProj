@@ -12,7 +12,7 @@ public class EndOfFile {
 i++;
 
                 }
-        while ( !a.equals("yeter")) ;
+        while ( !a.contains("yeter")) ;
 
             }
         }
