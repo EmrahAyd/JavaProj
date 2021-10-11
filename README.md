@@ -1,2 +1,2 @@
-## Ortalama alma
-Projeler master branchin içerisindedir.
+
+###Projeler master branchin içerisindedir.
